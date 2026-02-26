@@ -4,6 +4,9 @@ public class PalindromeCheckerApp {
 
                 Scanner scanner = new Scanner(System.in);
 
+                System.out.println("Welcome to palindrome checker app");
+                System.out.println("Logic to usecase 2");
+
                 System.out.print("Enter a string: ");
                 String input = scanner.nextLine();
 
